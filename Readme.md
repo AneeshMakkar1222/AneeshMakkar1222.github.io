@@ -110,8 +110,9 @@ The first requirement is the knowledge of markdown language which is needed to w
 > >* After that just open the link `https://[your-github-name].github.io` in the web browser where you will find the website.
 >
 > Below is an example of my static website 
-> containing my resume and readme file.
-> ![TUTORIAL](tutorial.gif)
+> containing my resume.
+> ![Resume](ResumeFinal.gif)
+
 
 ### *More Resources*
 >* Resource for Markdown tutorial: This [Markdown Tutorial](https://www.markdowntutorial.com/) link is the best to 
@@ -132,6 +133,16 @@ I will like to thank my team members. (Tristan Dyck, Asifur Rahman, Katrina Dotz
 ## *FAQs*
 ---
 > 1. Why is Markdown better than a word processor? 
+  Ans. There is no need for the editors to worry about 
+>editing. the look and feel of websites can be modified 
+>without affecting the content by 
+> using Markdown.
 >
-> 2. Why is my resume not showing up?
+> 2. Why is my resume not showing up ?
 >
+>    Ans. After making changes to resume it takes around
+> 3 - 5 minutes  to see those changes. GitHub takes a 
+> little time to make those changes.
+> Also make ensure that GitHub Pages site is coming 
+> from the correct branch of GitHub.
+> This option is available in GitHub settings.
