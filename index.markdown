@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# **Aneesh Makkar**
+## **Aneesh Makkar**
 Email: makkara@myumanitoba.ca
 
 Phone Number: (431)-334-7248  
