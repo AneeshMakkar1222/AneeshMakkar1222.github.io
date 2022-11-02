@@ -111,7 +111,7 @@ The first requirement is the knowledge of markdown language which is needed to w
 >
 > Below is an example of my static website 
 > containing my resume.
-> ![Resume](./ResumeFinal.gif)
+> ![Resume](ResumeFinal.gif)
 
 
 ### *More Resources*
