@@ -102,7 +102,8 @@ The first requirement is the knowledge of markdown language which is needed to w
 > 7. To open the website that you just created type `bundle 
 > exec jekyll serve` command. After that go to browser and 
 > search `http://localhost:4000`
-> 8. Lastly, push the required files using Git desktop or by 
+> 8. Copy and paste your resume (MD file) in the index.markdown file.
+> 9. Lastly, push the required files using Git desktop or by 
 > typing three listed commands in sequence: -
 > >* `git add --all`
 > >* `git commit -m "Initial commit"`
