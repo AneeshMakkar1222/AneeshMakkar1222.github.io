@@ -98,12 +98,11 @@ The first requirement is the knowledge of markdown language which is needed to w
 > 5. Initialize the website by using the command `jekyll new 
 > [website name]` and then switch to the new website 
 > directory  by using the command `cd [website name]`.
-> 6. Install the webrick bundle by using `bundle add webrick` command first and then using `bundle install` command.
-> 7. To open the website that you just created type `bundle 
+> 6. To open the website that you just created type `bundle 
 > exec jekyll serve` command. After that go to browser and 
 > search `http://localhost:4000`
-> 8. Copy and paste your resume (MD file) in the index.markdown file.
-> 9. Lastly, push the required files using Git desktop or by 
+> 7. Copy and paste your resume (MD file) in the markdown file present in _post folder.
+> 8. Lastly, push the required files using Git desktop or by 
 > typing three listed commands in sequence: -
 > >* `git add --all`
 > >* `git commit -m "Initial commit"`
